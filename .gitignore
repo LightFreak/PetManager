@@ -2,3 +2,5 @@
 bin/
 # Ignorierte Files in Obj
 obj/
+# Ignore .vs
+.vs/
