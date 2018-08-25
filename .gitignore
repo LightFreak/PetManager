@@ -1,0 +1,4 @@
+# Ignorierte Files in Bin
+bin/
+# Ignorierte Files in Obj
+obj/
