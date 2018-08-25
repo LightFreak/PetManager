@@ -62,7 +62,7 @@ namespace PetManager {
 
         private void btnShowStatistic_Click(object sender, EventArgs e) {
             var personList = (BindingList<Person>)this.dgvPerson.DataSource;
-            new StatisticsForm(personList).ShowDialog(this);
+            new StatisticForm(personList).ShowDialog(this);
         }
     }
 }
