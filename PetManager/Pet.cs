@@ -22,6 +22,8 @@ namespace PetManager {
         string.Equals(this.Breed, pet.Breed);
     }
 
+
 }
+
 
 /*änderung provozieren*/
